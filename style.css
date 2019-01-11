@@ -1,0 +1,33 @@
+button, div, form, input {
+	margin: 5px;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+label {
+    color: black;
+}
+
+.btn-default {
+    color: black;
+    font-size: medium;
+}
+
+body {
+	background-image: url("background.png");
+    font-family: 'Bad Script', cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.holder {
+    float: left;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: pink;
+}
